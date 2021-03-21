@@ -1,0 +1,1 @@
+"# shop-mini-kurs" 
